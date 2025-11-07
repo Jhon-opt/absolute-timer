@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Absolute Batman",
+    "coverImage": "https://tuusuario.github.io/AbsoluteTimer_json/images/absolute-wonderwoman.jpg",
+    "issues": [
+      {
+        "number": 14,
+        "name": "Absolute Batman",
+        "releaseDate": "2025-11-26T00:00:00"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Absolute Wonder Woman",
+    "coverImage": "https://tusitio.com/images/absolute-wonderwoman.jpg",
+    "issues": [
+      {
+        "number": 14,
+        "name": "Absolute Wonder Woman",
+        "releaseDate": "2025-11-26T00:00:00"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Absolute Superman",
+    "coverImage": "https://tusitio.com/images/absolute-superman.jpg",
+    "issues": [
+      {
+        "number": 14,
+        "name": "Absolute Superman",
+        "releaseDate": "2025-12-17T00:00:00"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Absolute Martian Manhunter",
+    "coverImage": "https://tusitio.com/images/absolute-martian.jpg",
+    "issues": [
+      {
+        "number": 7,
+        "name": "Absolute Martian Manhunter",
+        "releaseDate": "2025-12-24T00:00:00"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Absolute Flash",
+    "coverImage": "https://tusitio.com/images/absolute-flash.jpg",
+    "issues": [
+      {
+        "number": 9,
+        "name": "Absolute Flash",
+        "releaseDate": "2025-11-19T00:00:00"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Absolute Green Lantern",
+    "coverImage": "https://tusitio.com/images/absolute-greenlantern.jpg",
+    "issues": [
+      {
+        "number": 9,
+        "name": "Absolute Green Lantern",
+        "releaseDate": "2025-12-03T00:00:00"
+      }
+    ]
+  }
+]
