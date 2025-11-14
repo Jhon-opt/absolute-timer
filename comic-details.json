@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "absolute-batman-14",
+    "title": "Absolute Batman",
+    "issue": 14,
+    "coverImage": "https://jhon-opt.github.io/absolute-timer/images/bt_14.webp",
+    "releaseDate": "2025-11-26T00:00:00Z",
+    "lastReleaseDate": "2025-10-08T00:00:00Z",
+    "authors": "Scott Snyder, Nick Dragotta",
+    "synopsis": "In a Gotham without a Batman, a young Bruce Wayne must rise from the ashes of tragedy to become something new. Written by Scott Snyder with art by Nick Dragotta, Absolute Batman #14 delivers a bold, brutal reimagining of the Dark Knight."
+  },
+  {
+    "slug": "absolute-wonder-woman-14",
+    "title": "Absolute Wonder Woman",
+    "issue": 14,
+    "coverImage": "https://jhon-opt.github.io/absolute-timer/images/ww_14.webp",
+    "releaseDate": "2025-11-26T00:00:00Z",
+    "lastReleaseDate": "2025-10-08T00:00:00Z",
+    "authors": "Kelly Thompson, Hayden Sherman",
+    "synopsis": "Diana of Themyscira faces her greatest challenge yet as the gods turn against humanity. Kelly Thompson and Hayden Sherman craft a mythic, action-packed epic in Absolute Wonder Woman #14."
+  },
+  {
+    "slug": "absolute-superman-14",
+    "title": "Absolute Superman",
+    "issue": 14,
+    "coverImage": "https://jhon-opt.github.io/absolute-timer/images/sm_14.webp",
+    "releaseDate": "2025-12-17T00:00:00Z",
+    "lastReleaseDate": "2025-11-12T00:00:00Z",
+    "authors": "Jason Aaron, Rafa Sandoval",
+    "synopsis": "A powerless Clark Kent discovers the true meaning of hope in a world that fears him. Jason Aaron and Rafa Sandoval redefine the Man of Steel in Absolute Superman #14."
+  },
+  {
+    "slug": "absolute-martian-manhunter-7",
+    "title": "Absolute Martian Manhunter",
+    "issue": 7,
+    "coverImage": "https://jhon-opt.github.io/absolute-timer/images/mm_7.webp",
+    "releaseDate": "2025-12-24T00:00:00Z",
+    "lastReleaseDate": "2025-11-19T00:00:00Z",
+    "authors": "Steve Orlando, Riley Rossmo",
+    "synopsis": "J'onn J'onzz confronts the ghosts of Mars and Earth in a psychological thriller that blurs the line between hero and monster."
+  },
+  {
+    "slug": "absolute-flash-9",
+    "title": "Absolute Flash",
+    "issue": 9,
+    "coverImage": "https://jhon-opt.github.io/absolute-timer/images/fl_9.webp",
+    "releaseDate": "2025-11-19T00:00:00Z",
+    "lastReleaseDate": "2025-10-15T00:00:00Z",
+    "authors": "Si Spurrier, Mike Deodato Jr.",
+    "synopsis": "Barry Allen races against time itself to prevent a Speed Force collapse that could erase reality."
+  },
+  {
+    "slug": "absolute-green-lantern-9",
+    "title": "Absolute Green Lantern",
+    "issue": 9,
+    "coverImage": "https://jhon-opt.github.io/absolute-timer/images/gl_9.webp",
+    "releaseDate": "2025-12-03T00:00:00Z",
+    "lastReleaseDate": "2025-11-05T00:00:00Z",
+    "authors": "Al Ewing, Xermanico",
+    "synopsis": "John Stewart wields the ultimate weapon of will in a universe where fear has become a physical force."
+  }
+]
