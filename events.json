@@ -8,7 +8,9 @@
         "number": 14,
         "name": "Absolute Batman",
         "lastReleaseDate": "2025-10-08T00:00:00Z",
-        "releaseDate": "2025-11-26T00:00:00Z"
+        "releaseDate": "2025-11-26T00:00:00Z",
+        "authors": ["Scott Snyder", "Nick Dragotta"],
+      "synopsis": "Batman enfrenta una amenaza que surge desde el corazón de Gotham, mientras un enemigo del pasado vuelve con un plan que podría cambiarlo todo."
       }
     ]
   },
@@ -21,7 +23,9 @@
         "number": 14,
         "name": "Absolute Wonder Woman",
         "lastReleaseDate": "2025-10-22T00:00:00Z",
-        "releaseDate": "2025-11-26T00:00:00Z"
+        "releaseDate": "2025-11-26T00:00:00Z",
+        "authors": ["Kelly Thompson", "Hayden Sherman"],
+      "synopsis": "Batman enfrenta una amenaza que surge desde el corazón de Gotham, mientras un enemigo del pasado vuelve con un plan que podría cambiarlo todo."
       }
     ]
   },
@@ -34,7 +38,9 @@
         "number": 14,
         "name": "Absolute Superman",
         "lastReleaseDate": "2025-11-05T00:00:00Z",
-        "releaseDate": "2025-12-17T00:00:00Z"
+        "releaseDate": "2025-12-17T00:00:00Z",
+        "authors": ["Jason Aaron", "Rafa Sandoval"],
+      "synopsis": "Batman enfrenta una amenaza que surge desde el corazón de Gotham, mientras un enemigo del pasado vuelve con un plan que podría cambiarlo todo."
       }
     ]
   },
@@ -47,7 +53,9 @@
         "number": 7,
         "name": "Absolute Martian Manhunter",
         "lastReleaseDate": "2025-08-27T00:00:00Z",
-        "releaseDate": "2025-12-24T00:00:00Z"
+        "releaseDate": "2025-12-24T00:00:00Z",
+        "authors": ["Steve Orlando", "Riley Rossmo"],
+      "synopsis": "Batman enfrenta una amenaza que surge desde el corazón de Gotham, mientras un enemigo del pasado vuelve con un plan que podría cambiarlo todo."
       }
     ]
   },
@@ -60,7 +68,9 @@
         "number": 9,
         "name": "Absolute Flash",
         "lastReleaseDate": "2025-10-15T00:00:00Z",
-        "releaseDate": "2025-11-19T00:00:00Z"
+        "releaseDate": "2025-11-19T00:00:00Z",
+        "authors": ["Si Spurrier", " Mike Deodato Jr."],
+      "synopsis": "Batman enfrenta una amenaza que surge desde el corazón de Gotham, mientras un enemigo del pasado vuelve con un plan que podría cambiarlo todo."
       }
     ]
   },
@@ -73,7 +83,9 @@
         "number": 9,
         "name": "Absolute Green Lantern",
         "lastReleaseDate": "2025-11-05T00:00:00Z",
-        "releaseDate": "2025-12-03T00:00:00Z"
+        "releaseDate": "2025-12-03T00:00:00Z",
+        "authors": ["Al Ewing", "Xermanico"],
+      "synopsis": "Batman enfrenta una amenaza que surge desde el corazón de Gotham, mientras un enemigo del pasado vuelve con un plan que podría cambiarlo todo."
       }
     ]
   }
